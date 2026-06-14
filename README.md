@@ -2,6 +2,9 @@
 
 ## Overview
 Interactive Power BI dashboard analyzing survey responses from data professionals.
+## Dashboard Preview
+
+![Dashboard](dashboard-overview.png)
 
 ## Tools Used
 - Power BI
